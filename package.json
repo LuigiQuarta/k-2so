@@ -1,0 +1,12 @@
+{
+  "name": "k-2so",
+  "version": "1.0.0",
+  "description": "Just a friendly Discord BOT",
+  "main": "bot.js",
+  "author": "Luigi Quarta",
+  "license": "MIT",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "dotenv": "^8.2.0"
+  }
+}
