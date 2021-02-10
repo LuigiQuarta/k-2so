@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Just a friendly Discord BOT",
   "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "author": "Luigi Quarta",
   "license": "MIT",
   "dependencies": {

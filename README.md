@@ -8,4 +8,4 @@ You can find an example of the .env structure in .env.example, obtain a valid Di
 
 ## Run the bot
 To run the bot just open a terminal and digit:
-`node bot.js`
+`npm start` or `node bot.js`
